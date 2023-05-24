@@ -1,0 +1,27 @@
+.target{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 32%;
+    margin-top: 13%;
+    width: 40%;
+    height: 60%;
+    background-color:#fff;
+    justify-content: space-around;
+    border-radius: 2%;
+    box-shadow: 
+    -10px 0px 10px rgba(0, 0, 0, 0.5),
+    10px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.font{
+    color: gray;
+}
+
+.secondLine{
+    margin-right: 50%;
+}
+
+.allAboutPeople{
+    width: 50%;
+}
